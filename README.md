@@ -1,5 +1,6 @@
 # **Litintuit**  
 An intelligent book recommendation system powered by **DistilRoBERTa and vector embeddings**.
+  
 ![litintuit dashboard](https://github.com/alexandralanorias/litintuit/blob/master/litintuit-dashboard.png)
 
 ## **Overview**  
