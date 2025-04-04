@@ -1,5 +1,6 @@
 # **Litintuit**  
 An intelligent book recommendation system powered by **DistilRoBERTa and vector embeddings**.
+![litintuit dashboard](https://github.com/alexandralanorias/litintuit/blob/master/litintuit-dashboard.png)
 
 ## **Overview**  
 **Litintuit** is a **semantic book recommender** that provides **genre- and emotion-based** book suggestions. Unlike traditional recommendation systems that rely on collaborative or content-based filtering, LitIntuit uses a **pure LLM-driven approach** to understand the emotional tone and themes of books, allowing for more intuitive and nuanced recommendations.
